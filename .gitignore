@@ -20,9 +20,14 @@ build/
 out/
 .next/
 .nuxt/
+.vite/
+dist-ssr/
 .cache/
 .parcel-cache/
 coverage/
+*.tsbuildinfo
+playwright-report/
+test-results/
 
 # OS / editor files
 Thumbs.db
